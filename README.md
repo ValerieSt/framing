@@ -40,6 +40,6 @@ In the shell file (0-run_scripts.sh), replace the string [PATH] with the path to
 6. Run the shell
 On a mac, you can run the shell file in your terminal. Make sure you are in the right file directory, type “sh”, drag and drop the shell file into the terminal, and press enter.
 
-For questions, please contact the author at [EMAILADDRESS]
+For questions, please contact the author at sticher@sipo.gess.ethz.ch
 
 Important note: The results may change over time as the NLP libraries and models evolve. The findings, as presented in the paper, were done with the code run on 7 December 2019.
