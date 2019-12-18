@@ -47,4 +47,4 @@ On a mac, you can run the shell file in your terminal. Make sure you are in the 
 
 For questions, please contact the author at sticher@sipo.gess.ethz.ch
 
-Important note: The results may change over time as the NLP libraries and models evolve. The findings, as presented in the paper, were done with the code run on 7 December 2019.
+Important note: The results may change over time as the NLP libraries and models evolve. The findings, as presented in the paper, were done with the code run on 11 December 2019.
