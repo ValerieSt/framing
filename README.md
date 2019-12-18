@@ -42,7 +42,8 @@ In the shell file (0-run_scripts.sh), replace the string [PATH] with the path to
 6. Make sure you are connected to the internet.
 
 7. Run the shell
-On a mac, you can run the shell file in your terminal. Make sure you are in the right file directory, type “sh”, drag and drop the shell file into the terminal, and press enter.
+
+On a mac, you can run the shell file in your terminal. Make sure you are in the right file directory, i.e. in the folder where you have saved the downloaded scripts. Type “sh ”, drag and drop the shell file into the terminal, and press enter.
 
 For questions, please contact the author at sticher@sipo.gess.ethz.ch
 
